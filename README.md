@@ -4,7 +4,9 @@ we create simple model in AI to find car in the image , this is code for detecti
 Screenshot for our model :- 
 
 
+
 ![Screenshot (3590)](https://user-images.githubusercontent.com/96958037/166149612-a5997d05-e779-4cd8-9151-a1942b0238a5.png)
+
 
 
 
@@ -15,9 +17,11 @@ When testing image has a car or have cars ,after work appear :-
 
 
 
+
 When testing image hasn't a car or haven't cars , after work appear :- 
 
 
 ![Screenshot (3592)](https://user-images.githubusercontent.com/96958037/166149811-07de2d84-2fe7-4aa6-b29f-537fe41a3294.png)
+
 
 
